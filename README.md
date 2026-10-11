@@ -23,7 +23,8 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
 2. Then get your API key from https://home.openweathermap.org/api_keys.
 3. Clone the repo
    ```sh
-   git clone https://github.com/PadalaBalaSivaSaiMegiReddy/FlutterWeather.git
+   git clone https://github.com/siva-fy/FlutterWeather.git
+   cd FlutterWeather
    ```
 4. Install all the packages by typing
    ```sh
@@ -33,10 +34,21 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
    ```dart
    String apiKey = 'Paste Your API Key Here';
    ```
-6. Run the App
+6. Run the app on a connected device or emulator:
+   ```sh
+   flutter run
+   ```
+
+## Project status
+
+This is an earlier Flutter learning project. Its dependencies and weather endpoints
+reflect the original implementation; the app has not been rerun with current SDKs
+as part of this documentation update. Check API availability and your OpenWeather
+plan before running. Keep your API key out of commits. The original screenshots and license information are preserved.
+
 
 ## Contact
-- [Bala Siva Sai Megi Reddy Padala](https://github.com/PadalaBalaSivaSaiMegiReddy) | [Twitter](https://twitter.com/megi_reddy21) | [Instagram](https://www.instagram.com/b_s_s_megi_reddy_padala/)
+- [Bala Siva Sai Megi Reddy Padala](https://github.com/siva-fy) | [Twitter](https://twitter.com/megi_reddy21) | [Instagram](https://www.instagram.com/b_s_s_megi_reddy_padala/)
 - If you find the content of this repository useful and you have some extra money, you can donate to me through [PayPal](https://www.paypal.me/megireddy21)
 
 ## License
